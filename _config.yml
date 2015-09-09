@@ -27,7 +27,6 @@ url: http://www.ggarchi.com
 compress_html:
   clippings: all
   endings: all
-  profile: true
 
 #
 # !! You don't need to change any of the configuration flags below !!
