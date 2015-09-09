@@ -13,7 +13,7 @@ If you do use them, a link back to http://github.com/glaistergaucher would be ap
 
 
 
-*The MIT License (MIT)
+*The MIT License (MIT)*
 Jekyll Now
 Copyright (c) 2015 Barry Clark
 
