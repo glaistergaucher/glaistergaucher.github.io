@@ -1,3 +1,7 @@
+
+Github repository of Glaister Gaucher Architects' official website ([Glaister Gaucher Architects](www.ggarchi.com))
+
+
 Credits
 
 - [Jekyll](https://github.com/jekyll/jekyll) - static site generator for GitHub hosted websites / blogs. 
