@@ -2,8 +2,8 @@
 The following directories and their contents are Copyright [Glaister Gaucher Architects](http://www.ggarchi.com). 
 In order to reuse anything therein, please send a request by email to info@ggarchi.com
 You may not reuse anything therein without explicit permission:
-_posts
-_pages
+- posts
+- pages
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. 
 If you do use them, a link back to http://github.com/glaistergaucher would be appreciated, but is not required.
 
