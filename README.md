@@ -1,4 +1,3 @@
-
 Github repository of Glaister Gaucher Architects' official website ([Glaister Gaucher Architects](http://www.ggarchi.com))
 
 

@@ -1,0 +1,49 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+	<title>Glaister||Gaucher Architects</title>
+	
+	{% include meta.html %}
+    
+	<link rel="stylesheet" type="text/css" href="/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+    	<link rel="icon" type="image/ico" href="/img/00-general/GGA-favicon.ico">
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.mixitup.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+</head>
+<body>
+
+	<header>
+		<div class="logo">
+			<a href="/tr/index.html"><img src="/img/00-general/GGA-logo.svg" title="Glaister||Gaucher Architects" alt="GGA"/></a>
+		</div><!-- end logo -->
+
+
+{% include nav-main-tr.html %}	
+
+		<div class="footer clearfix">
+            <div class="language">
+                <p><a href=/index.html>en</a> || <a href=/tr/index.html>tr</a></p>
+			</div>
+			<ul class="social clearfix">
+				<li><a href="https://www.facebook.com/GlaisterGaucherArchitects" target="_blank" class="fb" data-title="Facebook"></a></li>
+				<li><a href="https://plus.google.com/100649611015293255253" target="_blank" class="google" data-title="Google +"></a></li>
+				<li><a href="https://twitter.com/GGArchitects" target="_blank" class="twitter" data-title="Twitter"></a></li>
+			</ul><!-- end social -->
+
+			<div class="rights">
+				<p>© 2014-2015 Glaister || Gaucher Architects</p>
+				<p>Designed by <a href="">QuentinGaucher</a></p>
+			</div><!-- end rights -->
+		</div ><!-- end footer -->
+	</header><!-- end header -->
+
+	{{ content }}
+
+</body>
+</html>

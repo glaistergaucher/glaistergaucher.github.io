@@ -1,4 +1,4 @@
-Copyright (c) 2015 Glaister Gaucher Architects
+Copyright (c) 2014-2015 Glaister Gaucher Architects
 
 The following directories and their contents are Copyright [Glaister Gaucher Architects](http://www.ggarchi.com). 
 

@@ -56,6 +56,9 @@ h5, h6          { font-weight: bolder }
     *zoom: 1;  
 }
 
+sup {
+    font-size:xx-small; vertical-align:super;
+} 
 
 /*  Header  */
 @media (min-width:900px){
