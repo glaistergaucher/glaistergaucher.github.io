@@ -8,3 +8,11 @@ Credits
 - Magnetic Theme HTMl5 template, by [Pixelhint](http://pixelhint.com).
 - [MixItUp](https://github.com/patrickkunka/mixitup) - jQuery plugin providing animated filtering and sorting.
 
+
+
+To Do
+
+- set up max site width
+- find/build a "compress CSS" layout
+- 
+
