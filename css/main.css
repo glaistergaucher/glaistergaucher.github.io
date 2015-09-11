@@ -680,6 +680,20 @@ header .mobile{
     header nav ul li a:active{
         background: #f7f5f5;
     }
+    
+    header nav ul li ul li a{
+        display: inline-block;
+        width: 50%;
+        padding: 30px 0;
+        text-align: center;
+        color: #454545;
+        font-family: "Roboto", "Avenir-Light", "Arial", sans-serif;
+        font-size: 14px;
+        text-decoration: none;
+        border-top: 1px solid #f7f5f5;
+        background: #fff;
+    }
+    
     #menu_icon,
     .close_menu,
     .show_menu{
