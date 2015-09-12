@@ -12,7 +12,7 @@ Credits
 
 To Do
 
-- set up max site width
+- set up max site width (max-width content? css:705)
 - find/build a "compress CSS" layout
 - 
 
