@@ -12,9 +12,12 @@ Credits
 
 To Do
 
-- set up max site width
+- set up max site width (max-width content? css:705)
 - find/build a "compress CSS" layout
+<<<<<<< HEAD
 - fix sorting tags of index pages
+=======
+>>>>>>> origin/master
 
 - link HCAndersen, needs cover square image-01
 - get usak belediyesi turkish translation + cover square image + surface m2 (update both EN and TR)
