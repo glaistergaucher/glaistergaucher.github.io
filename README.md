@@ -15,6 +15,7 @@ To Do
 - set up max site width (max-width content? css:705)
 - find/build a "compress CSS" layout
 - fix sorting tags of index pages
+- fix page title problem
 
 - HCAndersen needs cover square image-01
 - get usak belediyesi turkish translation + cover square image (update both EN and TR)
