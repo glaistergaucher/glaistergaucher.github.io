@@ -16,7 +16,11 @@ To Do
 - find/build a "compress CSS" layout
 - fix sorting tags of index pages
 
-- link HCAndersen, needs cover square image-01
-- get usak belediyesi turkish translation + cover square image + surface m2 (update both EN and TR)
-- link Usak municipality
-- link Edirne Corridors, needs cover square image-01
+- HCAndersen needs cover square image-01
+- get usak belediyesi turkish translation + cover square image (update both EN and TR)
+- Edirne Corridors, needs cover square image-01
+
+- add Canakkale
+- add Perspective
+- add Park Pavilions
+- add Panorama
