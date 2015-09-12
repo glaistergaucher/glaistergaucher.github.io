@@ -703,6 +703,7 @@ header .mobile{
     }
 }
 .content{
+    width: 100%;
     color: #4b4848;
     font-family: "Roboto", "Avenir-Light", "Arial", sans-serif;
     font-size: 13px;
