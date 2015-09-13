@@ -16,13 +16,9 @@ To Do
 - find/build a "compress CSS" layout
 - fix sorting tags of index pages
 - fix page title problem
+- consider removing js, mixitup.js from project pages
 
-- HCAndersen needs cover square image-01
-- get usak belediyesi turkish translation + cover square image (update both EN and TR)
-- Edirne Corridors, needs cover square image-01
+- cover square images-01
 
-- add Canakkale
-- add Perspective
-- add Park Pavilions
-- add Panorama
+
 
