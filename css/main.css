@@ -539,7 +539,7 @@ sup {
     font-size: 12px;
     font-weight: 300;
     line-height: 15px;
-    padding: 176px 0 0 0;
+    padding: 176px 0px 0px 0px;
     background: #fff;
 
     -webkit-box-sizing: border-box;
@@ -748,7 +748,7 @@ header .mobile{
     font-size: 12px;
     font-weight: 300;
     line-height: 15px;
-    padding: 20px 0 0 28px;
+    padding: 57px 0 0 28px;
     background: #fff;
 
     -webkit-box-sizing: border-box;
