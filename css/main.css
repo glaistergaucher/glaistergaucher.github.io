@@ -338,6 +338,16 @@ sup {
     background-position: 50% 50%;
 }
 
+
+.profile{
+    display: inline-block; 
+}
+
+.id{
+    display: inline-block;
+    width: 30%;
+}
+
 .imgL{
     width:49.7%;
 }
