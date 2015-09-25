@@ -12,13 +12,6 @@ Credits
 
 To Do
 
-- set up max site width (max-width content? css:705)
+
 - find/build a "compress CSS" layout
-- fix sorting tags of index pages
-- fix page title problem
 - consider removing js, mixitup.js from project pages
-
-- cover square images-01
-
-
-
