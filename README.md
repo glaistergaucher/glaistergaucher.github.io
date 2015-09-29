@@ -16,3 +16,5 @@ To Do
 - find/build a "compress CSS" layout
 - consider removing js, mixitup.js from project pages
 - FIX SocialMedia.png icons (00-general)
+- FIX file extensions for images (.jpg vs. .JPG), it returns 404.
+- Add 404 page
