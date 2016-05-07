@@ -18,5 +18,5 @@ To Do
 - FIX SocialMedia.png icons (00-general)
 - FIX file extensions for images (.jpg vs. .JPG), it returns 404.
 - Add 404 page
-
+-
 img 1300px wide
